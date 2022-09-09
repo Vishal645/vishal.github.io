@@ -33,7 +33,7 @@
 
 }
 .footerstyling > h1{
-    color: #EFC2D7;
+    color: #000000;
     text-align: center;
 }
 .socialmedia{
@@ -45,7 +45,7 @@
 .button{
     margin-left:90px;
     padding:10px;
-    background-color: ##9895EF;
+    background-color: #9895EF;
     border: 2px solid #000000;
     border-radius:10px;
 
